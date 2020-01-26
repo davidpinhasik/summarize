@@ -1,0 +1,17 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+marshmallow
+flask-marshmallow
+marshmallow-sqlalchemy
+Flask-JWT-Extended
+PyJWT
+requests
+flask-uploads
+python-dotenv
+psycopg2
+passlib
+flask-migrate
+flask-oauthlib
+speechrecognition
+uwsgi

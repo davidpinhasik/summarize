@@ -1,0 +1,44 @@
+{
+  "MAILGUN_API_KEY_NOT_LOADED": "Failed to load MailGun API Key",
+  "MAILGUN_DOMAIN_NOT_LOADED": "Failed to load MailGun Domain",
+  "MAILGUN_CONF_EMAIL_ERROR": "Error in sending Confirmation email, user registration failed",
+
+  "CONF_NOT_FOUND": "Confirmation reference not found",
+  "CONF_EXPIRED": "The link has expired",
+  "CONF_ALREADY_CONFIRMED": "Registration has already been confirmed",
+  "CONF_RESEND_SUCCESSFUL":  "Confirmation email has been resent successfully",
+  "CONF_RESEND_FAIL": "Confirmation email failed to be resent",
+
+  "SUMMARY_NOT_FOUND": "Summary not found",
+  "SUMMARY_NAME_ALREADY_EXISTS": "A summary with name {} already exists.",
+  "SUMMARY_ERROR_INSERTING": "An error occurred inserting the summary.",
+  "SUMMARY_DELETED": "Summary deleted",
+
+  "CUSTOMER_NOT_FOUND": "Customer not found",
+  "CUSTOMER_EMAIL_ALREADY_EXISTS": "A customer with email {} already exists.",
+  "CUSTOMER_ERROR_INSERTING": "An error occurred inserting the customer.",
+  "CUSTOMER_DELETED": "Customer deleted",
+
+  "USER_EXISTS": "User already exists.",
+  "USER_SUCCESS_REGISTERED_MESSAGE": "Account created successfully, an email with an activation link has been sent to your email address, please check.",
+  "USER_NOT_FOUND": "User not found",
+  "USER_DELETED": "User deleted",
+  "USER_INVALID_CREDENTIALS": "Invalid Credentials",
+  "USER_LOGOUT_SUCCESS": "Successfully logged out",
+  "USER_NOT_CONFIRMED_ERROR": "You have not confirmed registration, please check your email <{}>",
+  "USER_CONFIRMED": "You have confirmed registration, for email <{}>",
+  "USER_EMAIL_ALREADY_EXISTS": "Email already exists , for email <{}>",
+  "USER_FAILED_TO_CREATE_USER": "An error occurred while attempting to create the user",
+  "USER_SSN_ALREADY_EXISTS": "User already exists with social security number: <{}>",
+  "USER_MISSING_PASSWORD": "Please enter a valid password",
+  "USER_MISSING_EMAIL": "Please enter a valid email",
+  "USER_MISSING_SSN": "Please enter a valid social security number or ID number",
+  "USER_PASSWORD_UPDATED": "User password was updated successfully",
+
+  "AUDIO_UPLOADED": "Audio {} uploaded",
+  "AUDIO_ILLEGAL_EXTENSION": "Extension {} is not allowed",
+  "AUDIO_ILLEGAL_FILE_NAME": "File name {} is illegal",
+  "AUDIO_NOT_FOUND": "Audio {} not found",
+  "AUDIO_DELETED": "Audio {} deleted",
+  "AUDIO_DELETE_FAILED": "Audio delete failed for {}"
+}

@@ -1,0 +1,49 @@
+{
+  "MAILGUN_API_KEY_NOT_LOADED": "HEBREW: Failed to load MailGun API Key",
+  "MAILGUN_DOMAIN_NOT_LOADED": "HEBREW: Failed to load MailGun Domain",
+  "MAILGUN_CONF_EMAIL_ERROR": "HEBREW: Error in sending Confirmation email, user registration failed",
+
+  "CONF_NOT_FOUND": "HEBREW: Confirmation reference not found",
+  "CONF_EXPIRED": "HEBREW: The link has expired",
+  "CONF_ALREADY_CONFIRMED": "HEBREW: Registration has already been confirmed",
+  "CONF_RESEND_SUCCESSFUL":  "HEBREW: Confirmation email has been resent successfully",
+  "CONF_RESEND_FAIL": "HEBREW: Confirmation email failed to be resent",
+
+  "SUMMARY_NOT_FOUND": "HEBREW: Summary not found",
+  "SUMMARY_NAME_ALREADY_EXISTS": "HEBREW: A summary with name {} already exists.",
+  "SUMMARY_ERROR_INSERTING": "HEBREW: An error occurred inserting the summary.",
+  "SUMMARY_DELETED": "HEBREW: Summary deleted",
+
+  "CUSTOMER_NOT_FOUND": "HEBREW: Customer not found",
+  "CUSTOMER_EMAIL_ALREADY_EXISTS": "HEBREW: A customer with email {} already exists.",
+  "CUSTOMER_ERROR_INSERTING": "HEBREW: An error occurred inserting the customer.",
+  "CUSTOMER_DELETED": "HEBREW: Customer deleted",
+
+  "USER_EXISTS": "HEBREW: User already exists.",
+  "USER_SUCCESS_REGISTERED_MESSAGE": "HEBREW: Account created successfully, an email with an activation link has been sent to your email address, please check.",
+  "USER_NOT_FOUND": "HEBREW: User not found",
+  "USER_DELETED": "HEBREW: User deleted",
+  "USER_INVALID_CREDENTIALS": "HEBREW: Invalid Credentials",
+  "USER_LOGOUT_SUCCESS": "HEBREW: Successfully logged out",
+  "USER_NOT_CONFIRMED_ERROR": "HEBREW: You have not confirmed registration, please check your email <{}>",
+  "USER_CONFIRMED": "HEBREW: You have confirmed registration, for email <{}>",
+  "USER_EMAIL_ALREADY_EXISTS": "HEBREW: Email already exists , for email <{}>",
+  "USER_FAILED_TO_CREATE_USER": "HEBREW: An error occurred while attempting to create the user",
+  "USER_SSN_ALREADY_EXISTS": "HEBREW: User already exists with social security number: <{}>",
+  "USER_MISSING_PASSWORD": "HEBREW: Please enter a valid password",
+  "USER_MISSING_EMAIL": "HEBREW: Please enter a valid email",
+  "USER_MISSING_SSN": "HEBREW: Please enter a valid social security number or ID number",
+  "USER_PASSWORD_UPDATED": "HEBREW: User password was updated successfully",
+
+  "AUDIO_UPLOADED": "HEBREW: Audio {} uploaded",
+  "AUDIO_ILLEGAL_EXTENSION": "HEBREW: Extension {} is not allowed",
+  "AUDIO_ILLEGAL_FILE_NAME": "HEBREW: File name {} is illegal",
+  "AUDIO_NOT_FOUND": "HEBREW: Audio {} not found",
+  "AUDIO_DELETED": "HEBREW: Audio {} deleted",
+  "AUDIO_DELETE_FAILED": "HEBREW: Audio delete failed for {}"
+
+
+
+
+
+}

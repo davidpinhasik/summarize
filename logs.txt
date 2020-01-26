@@ -1,0 +1,1157 @@
+22-01-2020 15:12:45    DEBUG [app.py 53] Calling handle_marshmallow_validation
+22-01-2020 15:12:45    DEBUG [app.py 54] err.messages = {'created_dt': ['Not a valid datetime.']}
+22-01-2020 15:12:45     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:12:45] "POST /summary/Recording_2.wav HTTP/1.1" 400 -
+22-01-2020 15:14:17     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:14:17] "POST /summary/Recording_2.wav HTTP/1.1" 400 -
+22-01-2020 15:15:47     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\schemas\\summary.py', reloading
+22-01-2020 15:15:47     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:15:48    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:15:48    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:15:48    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:15:48    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:15:48    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:15:48    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:15:48    DEBUG [app.py 83] Calling main code
+22-01-2020 15:15:48  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:15:48     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:15:48     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:17:49     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+22-01-2020 15:17:49     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:17:50    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:17:50    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:17:50    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:17:50    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:17:50    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:17:50    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:17:50    DEBUG [app.py 83] Calling main code
+22-01-2020 15:17:50  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:17:50     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:17:50     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:17:53    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:17:53    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:17:53    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:17:53    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:17:53    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:17:53    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:17:53    DEBUG [app.py 83] Calling main code
+22-01-2020 15:17:53     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:17:54    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:17:54    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:17:54    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:17:54    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:17:54    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:17:54    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:17:54    DEBUG [app.py 83] Calling main code
+22-01-2020 15:17:54  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:17:54     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:17:54     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:18:12    DEBUG [app.py 53] Calling handle_marshmallow_validation
+22-01-2020 15:18:12    DEBUG [app.py 54] err.messages = {'audio_file_name': ['Unknown field.'], 'created_dt': ['Unknown field.'], 'text': ['Unknown field.']}
+22-01-2020 15:18:12     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:18:12] "POST /summary/Recording_2.wav HTTP/1.1" 400 -
+22-01-2020 15:21:59     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+22-01-2020 15:21:59     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:22:00    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:22:00    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:22:00    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:22:00    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:22:00    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:22:00    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:22:00    DEBUG [app.py 83] Calling main code
+22-01-2020 15:22:00  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:22:00     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:22:00     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:22:12    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:22:12    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:22:12    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:22:12    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:22:12    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:22:12    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:22:12    DEBUG [app.py 83] Calling main code
+22-01-2020 15:22:12     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:22:13    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:22:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:22:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:22:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:22:13    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:22:13    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:22:13    DEBUG [app.py 83] Calling main code
+22-01-2020 15:22:13  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:22:13     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:22:13     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:22:21     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:22:21] "POST /summary/Recording_2.wav HTTP/1.1" 201 -
+22-01-2020 15:24:51    DEBUG [app.py 53] Calling handle_marshmallow_validation
+22-01-2020 15:24:51    DEBUG [app.py 54] err.messages = {'text': ['Unknown field.'], 'created_dt': ['Unknown field.'], 'audio_file_name': ['Unknown field.']}
+22-01-2020 15:24:51     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:24:51] "PUT /summary/Recording_1.wav HTTP/1.1" 400 -
+22-01-2020 15:27:10     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+22-01-2020 15:27:10     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:27:11    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:27:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:27:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:27:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:27:11    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:27:11    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:27:11    DEBUG [app.py 83] Calling main code
+22-01-2020 15:27:11  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:27:11     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:27:11     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:27:14    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:27:14    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:27:14    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:27:14    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:27:14    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:27:14    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:27:14    DEBUG [app.py 83] Calling main code
+22-01-2020 15:27:14     INFO [_internal.py 122]  * Restarting with stat
+22-01-2020 15:27:15    DEBUG [audio.py 17] Beginning class FileStorageField
+22-01-2020 15:27:15    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+22-01-2020 15:27:15    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+22-01-2020 15:27:15    DEBUG [audio.py 21] Beginning /schemas/audio.py
+22-01-2020 15:27:15    DEBUG [app.py 40] Calling JWTManager(app)
+22-01-2020 15:27:15    DEBUG [app.py 64] Calling api.add_resource...
+22-01-2020 15:27:15    DEBUG [app.py 83] Calling main code
+22-01-2020 15:27:15  WARNING [_internal.py 122]  * Debugger is active!
+22-01-2020 15:27:15     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+22-01-2020 15:27:15     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+22-01-2020 15:27:23     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:27:23] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+22-01-2020 15:28:13     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:28:13] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+22-01-2020 15:28:43     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:28:43] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+22-01-2020 15:29:29     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:29:29] "GET /summaries HTTP/1.1" 200 -
+22-01-2020 15:29:53     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:29:53] "GET /summary/Recording_1.wav HTTP/1.1" 200 -
+22-01-2020 15:30:01     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:30:01] "GET /summary/Recording_2.wav HTTP/1.1" 200 -
+22-01-2020 15:30:22     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:30:22] "DELETE /summary/Recording_1.wav HTTP/1.1" 401 -
+22-01-2020 15:30:30     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:30:30] "POST /login HTTP/1.1" 200 -
+22-01-2020 15:30:34     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:30:34] "DELETE /summary/Recording_1.wav HTTP/1.1" 200 -
+22-01-2020 15:30:47     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 15:30:47] "GET /summaries HTTP/1.1" 200 -
+22-01-2020 16:46:00     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 16:46:00] "POST /login HTTP/1.1" 200 -
+22-01-2020 16:46:17    DEBUG [audio.py 36] Calling audio_schema.load
+22-01-2020 16:46:18    DEBUG [audio.py 37] request.files = ImmutableMultiDict([('audio', <FileStorage: 'harvard.wav' ('audio/wave')>)])
+22-01-2020 16:46:18    DEBUG [audio.py 23] Calling deserialize
+22-01-2020 16:46:18    DEBUG [audio.py 24] value is <FileStorage: 'harvard.wav' ('audio/wave')>
+22-01-2020 16:46:18    DEBUG [audio.py 32] returning value
+22-01-2020 16:46:18    DEBUG [audio.py 41] data = {'audio': <FileStorage: 'harvard.wav' ('audio/wave')>}
+22-01-2020 16:46:18    DEBUG [audio.py 42] Calling get_jwt_identity
+22-01-2020 16:46:18    DEBUG [audio.py 44] User_id is 3
+22-01-2020 16:46:18    DEBUG [audio.py 46] folder is user_3
+22-01-2020 16:46:18    DEBUG [audio.py 48] Starting try block
+22-01-2020 16:46:18    DEBUG [audio.py 50] audio_path is user_3/harvard.wav
+22-01-2020 16:46:18    DEBUG [audio.py 52] basename is harvard.wav
+22-01-2020 16:46:18    DEBUG [audio.py 53] Returning message...
+22-01-2020 16:46:18     INFO [_internal.py 122] 127.0.0.1 - - [22/Jan/2020 16:46:18] "POST /upload/audio HTTP/1.1" 201 -
+23-01-2020 13:25:58     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 13:25:58     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 13:25:59    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 13:25:59    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 13:25:59    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 13:25:59    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 13:25:59    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 13:25:59    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 13:25:59    DEBUG [app.py 83] Calling main code
+23-01-2020 13:25:59  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 13:25:59     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 13:25:59     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 13:32:00     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 13:32:00     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 13:32:01    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 13:32:01    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 13:32:01    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 13:32:01    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 13:32:01    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 13:32:01    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 13:32:01    DEBUG [app.py 83] Calling main code
+23-01-2020 13:32:01  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 13:32:01     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 13:32:01     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 13:52:31     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 13:52:31     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 13:52:32    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 13:52:32    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 13:52:32    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 13:52:32    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 13:52:32    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 13:52:32    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 13:52:32    DEBUG [app.py 83] Calling main code
+23-01-2020 13:52:32  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 13:52:32     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 13:52:32     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 13:53:03    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 13:53:03    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 13:53:03    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 13:53:03    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 13:53:03    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 13:53:03    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 13:53:03    DEBUG [app.py 83] Calling main code
+23-01-2020 13:53:03     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 13:53:04    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 13:53:04    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 13:53:04    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 13:53:04    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 13:53:04    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 13:53:04    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 13:53:04    DEBUG [app.py 83] Calling main code
+23-01-2020 13:53:04  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 13:53:04     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 13:53:04     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 13:54:06     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 13:54:06] "POST /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 13:54:14     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 13:54:14] "POST /login HTTP/1.1" 200 -
+23-01-2020 13:54:35     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 13:54:35] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:26:43     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:26:43     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:26:44    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:26:44    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:26:44    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:26:44    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:26:44    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:26:44    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:26:44    DEBUG [app.py 83] Calling main code
+23-01-2020 14:26:44  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:26:44     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:26:44     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:31:07     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:31:07     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:31:08    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:31:08    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:31:08    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:31:08    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:31:08    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:31:08    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:31:08    DEBUG [app.py 83] Calling main code
+23-01-2020 14:31:08  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:31:08     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:31:08     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:31:11    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:31:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:31:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:31:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:31:11    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:31:11    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:31:11    DEBUG [app.py 83] Calling main code
+23-01-2020 14:31:12     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:31:13    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:31:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:31:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:31:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:31:13    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:31:13    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:31:13    DEBUG [app.py 83] Calling main code
+23-01-2020 14:31:13  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:31:13     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:31:13     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:31:26     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:31:26] "POST /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 14:31:43     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:31:43] "POST /login HTTP/1.1" 200 -
+23-01-2020 14:31:57     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:31:57] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:35:40     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:35:40     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:35:41    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:35:41    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:35:41    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:35:41    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:35:41    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:35:41    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:35:41    DEBUG [app.py 83] Calling main code
+23-01-2020 14:35:41  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:35:41     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:35:41     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:35:49    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:35:49    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:35:49    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:35:49    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:35:49    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:35:49    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:35:49    DEBUG [app.py 83] Calling main code
+23-01-2020 14:35:49     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:35:50    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:35:50    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:35:50    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:35:50    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:35:50    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:35:50    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:35:50    DEBUG [app.py 83] Calling main code
+23-01-2020 14:35:50  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:35:50     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:35:50     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:36:05     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:36:05] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:37:09     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:37:09     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:37:10    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:37:10    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:37:10    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:37:10    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:37:10    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:37:10    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:37:10    DEBUG [app.py 83] Calling main code
+23-01-2020 14:37:10  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:37:10     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:37:10     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:37:12    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:37:12    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:37:12    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:37:12    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:37:12    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:37:12    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:37:12    DEBUG [app.py 83] Calling main code
+23-01-2020 14:37:12     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:37:13    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:37:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:37:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:37:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:37:13    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:37:13    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:37:13    DEBUG [app.py 83] Calling main code
+23-01-2020 14:37:13  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:37:13     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:37:13     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:37:25     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:37:25] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:39:32     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:39:32     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:47:18    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:47:18    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:47:18    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:47:18    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:47:18    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:47:18    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:47:18    DEBUG [app.py 83] Calling main code
+23-01-2020 14:48:16    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:48:16    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:48:16    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:48:16    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:48:16    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:48:16    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:48:16    DEBUG [app.py 83] Calling main code
+23-01-2020 14:49:20    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:49:20    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:49:20    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:49:20    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:49:20    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:49:20    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:49:20    DEBUG [app.py 83] Calling main code
+23-01-2020 14:51:19    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:51:19    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:51:19    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:51:19    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:51:19    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:51:19    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:51:19    DEBUG [app.py 83] Calling main code
+23-01-2020 14:52:06    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:52:06    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:52:06    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:52:06    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:52:06    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:52:06    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:52:06    DEBUG [app.py 83] Calling main code
+23-01-2020 14:52:06     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:52:07    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:52:07    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:52:07    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:52:07    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:52:07    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:52:07    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:52:07    DEBUG [app.py 83] Calling main code
+23-01-2020 14:52:07  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:52:07     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:52:07     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:52:15     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:52:15] "POST /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 14:52:23     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:52:23] "POST /login HTTP/1.1" 200 -
+23-01-2020 14:53:06     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:53:06] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:53:41     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:53:42     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:53:43    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:53:43    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:53:43    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:53:43    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:53:43    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:53:43    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:53:43    DEBUG [app.py 83] Calling main code
+23-01-2020 14:53:43  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:53:43     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:53:43     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:54:41     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:54:41     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:54:42    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:54:42    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:54:42    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:54:42    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:54:42    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:54:42    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:54:42    DEBUG [app.py 83] Calling main code
+23-01-2020 14:54:42  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:54:42     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:54:42     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:55:00     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:55:01     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:55:02    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:55:02    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:55:02    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:55:02    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:55:02    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:55:02    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:55:02    DEBUG [app.py 83] Calling main code
+23-01-2020 14:55:02  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:55:02     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:55:02     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:56:42     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 14:56:42     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:56:43    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:56:43    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:56:43    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:56:43    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:56:43    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:56:43    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:56:43    DEBUG [app.py 83] Calling main code
+23-01-2020 14:56:43  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:56:43     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:56:43     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:56:48    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:56:48    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:56:48    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:56:48    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:56:48    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:56:48    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:56:48    DEBUG [app.py 83] Calling main code
+23-01-2020 14:56:48     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:56:49    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:56:49    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:56:49    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:56:49    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:56:49    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:56:49    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:56:49    DEBUG [app.py 83] Calling main code
+23-01-2020 14:56:49  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:56:49     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:56:49     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:57:02     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 14:57:02] "POST /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 14:58:39     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+23-01-2020 14:58:39     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:58:40    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:58:40    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:58:40    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:58:40    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:58:40    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:58:40    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:58:40    DEBUG [app.py 83] Calling main code
+23-01-2020 14:58:40  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:58:40     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:58:40     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 14:59:11    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:59:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:59:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:59:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:59:11    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:59:11    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:59:11    DEBUG [app.py 83] Calling main code
+23-01-2020 14:59:47     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+23-01-2020 14:59:47     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 14:59:48    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 14:59:48    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 14:59:48    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 14:59:48    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 14:59:48    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 14:59:48    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 14:59:48    DEBUG [app.py 83] Calling main code
+23-01-2020 14:59:48  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 14:59:48     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 14:59:48     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:00:11    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:00:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:00:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:00:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:00:11    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:00:11    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:00:11    DEBUG [app.py 83] Calling main code
+23-01-2020 15:00:38    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:00:38    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:00:38    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:00:38    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:00:38    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:00:38    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:00:38    DEBUG [app.py 83] Calling main code
+23-01-2020 15:01:07     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+23-01-2020 15:01:07     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:01:08    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:01:08    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:01:08    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:01:08    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:01:08    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:01:08    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:01:08    DEBUG [app.py 83] Calling main code
+23-01-2020 15:01:08  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:01:08     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:01:08     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:01:37    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:01:37    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:01:37    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:01:37    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:01:37    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:01:37    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:01:37    DEBUG [app.py 83] Calling main code
+23-01-2020 15:01:52    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:01:52    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:01:52    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:01:52    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:01:52    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:01:52    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:01:52    DEBUG [app.py 83] Calling main code
+23-01-2020 15:02:48    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:02:48    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:02:48    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:02:48    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:02:48    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:02:48    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:02:48    DEBUG [app.py 83] Calling main code
+23-01-2020 15:02:48     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:02:49    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:02:49    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:02:49    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:02:49    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:02:49    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:02:49    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:02:49    DEBUG [app.py 83] Calling main code
+23-01-2020 15:02:49  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:02:49     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:02:49     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:03:42     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:03:42] "POST /summary/Recording_1.wav HTTP/1.1" 201 -
+23-01-2020 15:15:20     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:15:20     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:15:21    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:15:21    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:15:21    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:15:21    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:15:21    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:15:21    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:15:21    DEBUG [app.py 83] Calling main code
+23-01-2020 15:15:21  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:15:21     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:15:21     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:17:02     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:17:02     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:17:03    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:17:03    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:17:03    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:17:03    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:17:03    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:17:03    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:17:03    DEBUG [app.py 83] Calling main code
+23-01-2020 15:17:03  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:17:03     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:17:03     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:17:17     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:17:17     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:17:49    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:17:49    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:17:49    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:17:49    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:17:49    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:17:49    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:17:49    DEBUG [app.py 83] Calling main code
+23-01-2020 15:17:49     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:17:51    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:17:51    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:17:51    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:17:51    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:17:51    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:17:51    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:17:51    DEBUG [app.py 83] Calling main code
+23-01-2020 15:17:51  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:17:51     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:17:51     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:18:11     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:18:11] "PUT /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 15:19:15     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:19:15] "PUT /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 15:19:20     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:19:20] "POST /login HTTP/1.1" 200 -
+23-01-2020 15:19:31     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:19:31] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+23-01-2020 15:22:34     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:22:34     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:22:35    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:22:35    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:22:35    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:22:35    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:22:35    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:22:35    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:22:35    DEBUG [app.py 83] Calling main code
+23-01-2020 15:22:35  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:22:35     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:22:35     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:22:39    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:22:39    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:22:39    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:22:39    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:22:39    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:22:39    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:22:39    DEBUG [app.py 83] Calling main code
+23-01-2020 15:22:39     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:22:40    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:22:40    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:22:40    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:22:40    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:22:40    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:22:40    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:22:40    DEBUG [app.py 83] Calling main code
+23-01-2020 15:22:40  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:22:40     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:22:40     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:22:53     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 15:22:53] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+23-01-2020 15:53:15     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+23-01-2020 15:53:15     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:53:16    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:53:16    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:53:16    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:53:16    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:53:16    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:53:16    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:53:16    DEBUG [app.py 83] Calling main code
+23-01-2020 15:53:16  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:53:16     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:53:16     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:54:56     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:54:56     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:54:57    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:54:57    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:54:57    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:54:57    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:54:57    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:54:57    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:54:57    DEBUG [app.py 83] Calling main code
+23-01-2020 15:54:57  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:54:57     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:54:57     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:55:08     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\sr.py', reloading
+23-01-2020 15:55:08     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:55:22    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:55:22    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:55:22    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:55:22    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:55:22    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:55:22    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:55:22    DEBUG [app.py 83] Calling main code
+23-01-2020 15:55:22     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:55:23    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:55:23    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:55:23    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:55:23    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:55:23    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:55:23    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:55:23    DEBUG [app.py 83] Calling main code
+23-01-2020 15:55:23  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:55:23     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:55:23     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 15:56:51     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 15:56:51     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 15:56:52    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 15:56:52    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 15:56:52    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 15:56:52    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 15:56:52    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 15:56:52    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 15:56:52    DEBUG [app.py 83] Calling main code
+23-01-2020 15:56:52  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 15:56:52     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 15:56:52     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:08:51     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+23-01-2020 16:08:51     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:08:52    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:08:52    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:08:52    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:08:52    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:08:52    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:08:52    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:08:52    DEBUG [app.py 83] Calling main code
+23-01-2020 16:08:52  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:08:52     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:08:52     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:17:53     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 16:17:53     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:17:54    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:17:54    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:17:54    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:17:54    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:17:54    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:17:54    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:17:54    DEBUG [app.py 83] Calling main code
+23-01-2020 16:17:54  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:17:54     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:17:54     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:19:31    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:19:31    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:19:31    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:19:31    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:19:31    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:19:31    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:19:31    DEBUG [app.py 83] Calling main code
+23-01-2020 16:19:44    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:19:44    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:19:44    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:19:44    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:19:44    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:19:44    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:19:44    DEBUG [app.py 83] Calling main code
+23-01-2020 16:21:44    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:21:44    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:21:44    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:21:44    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:21:44    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:21:44    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:21:44    DEBUG [app.py 83] Calling main code
+23-01-2020 16:21:44     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:21:45    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:21:45    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:21:45    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:21:45    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:21:45    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:21:45    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:21:45    DEBUG [app.py 83] Calling main code
+23-01-2020 16:21:45  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:21:45     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:21:45     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:23:36    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:23:36    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:23:36    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:23:36    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:23:36    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:23:36    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:23:36    DEBUG [app.py 83] Calling main code
+23-01-2020 16:36:17    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:36:17    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:36:17    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:36:17    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:36:17    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:36:17    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:36:17    DEBUG [app.py 83] Calling main code
+23-01-2020 16:37:01    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:37:01    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:37:01    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:37:01    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:37:01    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:37:01    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:37:01    DEBUG [app.py 83] Calling main code
+23-01-2020 16:39:47    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:39:47    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:39:47    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:39:47    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:39:47    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:39:47    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:39:47    DEBUG [app.py 83] Calling main code
+23-01-2020 16:40:02    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:40:02    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:40:02    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:40:02    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:40:02    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:40:02    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:40:02    DEBUG [app.py 83] Calling main code
+23-01-2020 16:40:27    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:40:27    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:40:27    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:40:27    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:40:27    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:40:27    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:40:27    DEBUG [app.py 83] Calling main code
+23-01-2020 16:40:47    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:40:47    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:40:47    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:40:47    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:40:47    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:40:47    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:40:47    DEBUG [app.py 83] Calling main code
+23-01-2020 16:41:13    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:41:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:41:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:41:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:41:13    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:41:13    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:41:13    DEBUG [app.py 83] Calling main code
+23-01-2020 16:41:25    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:41:25    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:41:25    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:41:25    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:41:25    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:41:25    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:41:25    DEBUG [app.py 83] Calling main code
+23-01-2020 16:41:50    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:41:50    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:41:50    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:41:50    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:41:50    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:41:50    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:41:50    DEBUG [app.py 83] Calling main code
+23-01-2020 16:42:09    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:42:09    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:42:09    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:42:09    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:42:09    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:42:09    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:42:09    DEBUG [app.py 83] Calling main code
+23-01-2020 16:42:26    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:42:26    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:42:26    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:42:26    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:42:26    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:42:26    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:42:26    DEBUG [app.py 83] Calling main code
+23-01-2020 16:42:27     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:42:28    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:42:28    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:42:28    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:42:28    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:42:28    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:42:28    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:42:28    DEBUG [app.py 83] Calling main code
+23-01-2020 16:42:28  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:42:28     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:42:28     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:42:41     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:42:41] "POST /login HTTP/1.1" 200 -
+23-01-2020 16:43:43     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:43:43] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 16:46:35     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 16:46:35     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:46:36    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:46:36    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:46:36    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:46:36    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:46:36    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:46:36    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:46:36    DEBUG [app.py 83] Calling main code
+23-01-2020 16:46:36  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:46:36     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:46:36     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:46:40    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:46:40    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:46:40    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:46:40    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:46:40    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:46:40    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:46:40    DEBUG [app.py 83] Calling main code
+23-01-2020 16:46:40     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:46:41    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:46:41    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:46:41    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:46:41    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:46:41    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:46:41    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:46:41    DEBUG [app.py 83] Calling main code
+23-01-2020 16:46:41  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:46:41     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:46:41     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:46:48     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:46:48] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 16:50:41     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 16:50:41     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:50:42    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:50:42    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:50:42    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:50:42    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:50:42    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:50:42    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:50:42    DEBUG [app.py 83] Calling main code
+23-01-2020 16:50:42  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:50:42     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:50:42     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:50:45    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:50:45    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:50:45    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:50:45    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:50:45    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:50:45    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:50:45    DEBUG [app.py 83] Calling main code
+23-01-2020 16:50:45     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:50:46    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:50:46    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:50:46    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:50:46    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:50:46    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:50:46    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:50:46    DEBUG [app.py 83] Calling main code
+23-01-2020 16:50:46  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:50:46     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:50:46     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:50:52     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:50:52] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 16:52:10     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 16:52:10     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:52:11    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:52:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:52:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:52:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:52:11    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:52:11    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:52:11    DEBUG [app.py 83] Calling main code
+23-01-2020 16:52:13    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:52:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:52:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:52:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:52:13    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:52:13    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:52:13    DEBUG [app.py 83] Calling main code
+23-01-2020 16:52:13     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:52:15    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:52:15    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:52:15    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:52:15    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:52:15    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:52:15    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:52:15    DEBUG [app.py 83] Calling main code
+23-01-2020 16:52:15  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:52:15     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:52:15     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:52:20     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:52:20] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 16:54:47     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 16:54:47     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:54:48    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:54:48    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:54:48    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:54:48    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:54:48    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:54:48    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:54:48    DEBUG [app.py 83] Calling main code
+23-01-2020 16:54:48  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:54:48     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:54:48     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:55:12    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:55:12    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:55:12    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:55:12    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:55:12    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:55:12    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:55:12    DEBUG [app.py 83] Calling main code
+23-01-2020 16:55:12     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 16:55:13    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 16:55:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 16:55:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 16:55:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 16:55:13    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 16:55:13    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 16:55:13    DEBUG [app.py 83] Calling main code
+23-01-2020 16:55:13  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 16:55:13     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 16:55:13     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 16:55:27     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 16:55:27] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+23-01-2020 17:27:41     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 17:27:41     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:27:42    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:27:42    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:27:42    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:27:42    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:27:42    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:27:42    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:27:42    DEBUG [app.py 83] Calling main code
+23-01-2020 17:27:42  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:27:42     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:27:42     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:28:57     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\schemas\\summary.py', reloading
+23-01-2020 17:28:57     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:28:58    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:28:58    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:28:58    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:28:58    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:28:58    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:28:58    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:28:58    DEBUG [app.py 83] Calling main code
+23-01-2020 17:28:58  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:28:58     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:28:58     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:29:09     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\schemas\\summary.py', reloading
+23-01-2020 17:29:09     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:29:10    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:29:10    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:29:10    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:29:10    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:29:10    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:29:10    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:29:10    DEBUG [app.py 83] Calling main code
+23-01-2020 17:29:10  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:29:10     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:29:10     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:30:56    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:30:56    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:30:56    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:30:56    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:30:56    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:30:56    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:30:56    DEBUG [app.py 83] Calling main code
+23-01-2020 17:33:35     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:33:35] "PUT /summary/Recording_1.wav HTTP/1.1" 401 -
+23-01-2020 17:33:40     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:33:40] "POST /login HTTP/1.1" 200 -
+23-01-2020 17:33:53     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:33:53] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+23-01-2020 17:34:53     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\resources\\summary.py', reloading
+23-01-2020 17:34:53     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:34:54    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:34:54    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:34:54    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:34:54    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:34:54    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:34:54    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:34:54    DEBUG [app.py 83] Calling main code
+23-01-2020 17:34:54  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:34:54     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:34:54     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:35:01    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:35:01    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:35:01    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:35:01    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:35:01    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:35:01    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:35:01    DEBUG [app.py 83] Calling main code
+23-01-2020 17:35:01     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:35:02    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:35:02    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:35:02    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:35:02    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:35:02    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:35:02    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:35:02    DEBUG [app.py 83] Calling main code
+23-01-2020 17:35:02  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:35:02     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:35:02     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:35:18     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:35:18] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+23-01-2020 17:36:06     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:36:06] "POST /summary/Recording_1.wav HTTP/1.1" 400 -
+23-01-2020 17:43:00    DEBUG [audio.py 36] Calling audio_schema.load
+23-01-2020 17:43:00    DEBUG [audio.py 37] request.files = ImmutableMultiDict([('audio', <FileStorage: 'Recording_2.wav' ('audio/wave')>)])
+23-01-2020 17:43:00    DEBUG [audio.py 23] Calling deserialize
+23-01-2020 17:43:00    DEBUG [audio.py 24] value is <FileStorage: 'Recording_2.wav' ('audio/wave')>
+23-01-2020 17:43:00    DEBUG [audio.py 32] returning value
+23-01-2020 17:43:00    DEBUG [audio.py 41] data = {'audio': <FileStorage: 'Recording_2.wav' ('audio/wave')>}
+23-01-2020 17:43:00    DEBUG [audio.py 42] Calling get_jwt_identity
+23-01-2020 17:43:00    DEBUG [audio.py 44] User_id is 3
+23-01-2020 17:43:00    DEBUG [audio.py 46] folder is user_3
+23-01-2020 17:43:00    DEBUG [audio.py 48] Starting try block
+23-01-2020 17:43:00    DEBUG [audio.py 50] audio_path is user_3/Recording_2.wav
+23-01-2020 17:43:00    DEBUG [audio.py 52] basename is Recording_2.wav
+23-01-2020 17:43:00    DEBUG [audio.py 53] Returning message...
+23-01-2020 17:43:00     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:43:00] "POST /upload/audio HTTP/1.1" 201 -
+23-01-2020 17:45:21     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:45:21] "POST /summary/Recording_2.wav HTTP/1.1" 400 -
+23-01-2020 17:45:41     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:45:41] "DELETE /summary/Recording_2.wav HTTP/1.1" 200 -
+23-01-2020 17:46:07     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:46:07] "POST /summary/Recording_2.wav HTTP/1.1" 201 -
+23-01-2020 17:52:35     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:52:35] "POST /upload/audio HTTP/1.1" 401 -
+23-01-2020 17:52:44     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:52:44] "POST /login HTTP/1.1" 200 -
+23-01-2020 17:53:00    DEBUG [audio.py 36] Calling audio_schema.load
+23-01-2020 17:53:00    DEBUG [audio.py 37] request.files = ImmutableMultiDict([('audio', <FileStorage: 'Recording_3.wav' ('audio/wave')>)])
+23-01-2020 17:53:00    DEBUG [audio.py 23] Calling deserialize
+23-01-2020 17:53:00    DEBUG [audio.py 24] value is <FileStorage: 'Recording_3.wav' ('audio/wave')>
+23-01-2020 17:53:00    DEBUG [audio.py 32] returning value
+23-01-2020 17:53:00    DEBUG [audio.py 41] data = {'audio': <FileStorage: 'Recording_3.wav' ('audio/wave')>}
+23-01-2020 17:53:00    DEBUG [audio.py 42] Calling get_jwt_identity
+23-01-2020 17:53:00    DEBUG [audio.py 44] User_id is 3
+23-01-2020 17:53:00    DEBUG [audio.py 46] folder is user_3
+23-01-2020 17:53:00    DEBUG [audio.py 48] Starting try block
+23-01-2020 17:53:00    DEBUG [audio.py 50] audio_path is user_3/Recording_3.wav
+23-01-2020 17:53:00    DEBUG [audio.py 52] basename is Recording_3.wav
+23-01-2020 17:53:00    DEBUG [audio.py 53] Returning message...
+23-01-2020 17:53:00     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:53:00] "POST /upload/audio HTTP/1.1" 201 -
+23-01-2020 17:53:37     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:53:37] "POST /summary/Recording_2.wav HTTP/1.1" 400 -
+23-01-2020 17:54:12     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:54:12] "POST /summary/Recording_3.wav HTTP/1.1" 500 -
+23-01-2020 17:56:25     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\sr.py', reloading
+23-01-2020 17:56:25     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:56:26    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:56:26    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:56:26    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:56:26    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:56:26    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:56:26    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:56:26    DEBUG [app.py 83] Calling main code
+23-01-2020 17:56:26  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:56:26     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:56:26     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:56:30    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:56:30    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:56:30    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:56:30    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:56:30    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:56:30    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:56:30    DEBUG [app.py 83] Calling main code
+23-01-2020 17:56:30     INFO [_internal.py 122]  * Restarting with stat
+23-01-2020 17:56:31    DEBUG [audio.py 17] Beginning class FileStorageField
+23-01-2020 17:56:31    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+23-01-2020 17:56:31    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+23-01-2020 17:56:31    DEBUG [audio.py 21] Beginning /schemas/audio.py
+23-01-2020 17:56:31    DEBUG [app.py 40] Calling JWTManager(app)
+23-01-2020 17:56:31    DEBUG [app.py 64] Calling api.add_resource...
+23-01-2020 17:56:31    DEBUG [app.py 83] Calling main code
+23-01-2020 17:56:31  WARNING [_internal.py 122]  * Debugger is active!
+23-01-2020 17:56:31     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+23-01-2020 17:56:31     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+23-01-2020 17:56:58     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:56:58] "POST /summary/Recording_3.wav HTTP/1.1" 500 -
+23-01-2020 17:59:24     INFO [_internal.py 122] 127.0.0.1 - - [23/Jan/2020 17:59:24] "POST /summary/Recording_3.wav HTTP/1.1" 201 -
+26-01-2020 11:23:11    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:23:11    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:23:11    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:23:11    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:23:11    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:23:11    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:23:11    DEBUG [app.py 83] Calling main code
+26-01-2020 11:23:11     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 11:23:13    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:23:13    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:23:13    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:23:13    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:23:13    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:23:13    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:23:13    DEBUG [app.py 83] Calling main code
+26-01-2020 11:23:13  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 11:23:13     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 11:23:13     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+26-01-2020 11:24:18     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:24:18] "POST /login HTTP/1.1" 200 -
+26-01-2020 11:25:02     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:25:02] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+26-01-2020 11:26:32     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+26-01-2020 11:26:32     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 11:26:33    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:26:33    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:26:33    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:26:33    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:26:33    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:26:33    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:26:33    DEBUG [app.py 83] Calling main code
+26-01-2020 11:26:33  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 11:26:33     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 11:26:33     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+26-01-2020 11:26:41    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:26:41    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:26:41    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:26:41    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:26:41    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:26:41    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:26:41    DEBUG [app.py 83] Calling main code
+26-01-2020 11:26:41     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 11:26:42    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:26:42    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:26:42    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:26:42    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:26:42    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:26:42    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:26:42    DEBUG [app.py 83] Calling main code
+26-01-2020 11:26:42  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 11:26:42     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 11:26:42     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+26-01-2020 11:26:57     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:26:57] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+26-01-2020 11:27:40     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\models\\summary.py', reloading
+26-01-2020 11:27:40     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 11:27:41    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:27:41    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:27:41    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:27:41    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:27:41    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:27:41    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:27:41    DEBUG [app.py 83] Calling main code
+26-01-2020 11:27:41  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 11:27:41     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 11:27:41     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+26-01-2020 11:27:43    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:27:43    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:27:43    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:27:43    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:27:43    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:27:43    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:27:43    DEBUG [app.py 83] Calling main code
+26-01-2020 11:27:43     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 11:27:44    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 11:27:44    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 11:27:44    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 11:27:44    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 11:27:44    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 11:27:44    DEBUG [app.py 64] Calling api.add_resource...
+26-01-2020 11:27:44    DEBUG [app.py 83] Calling main code
+26-01-2020 11:27:44  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 11:27:44     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 11:27:44     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+26-01-2020 11:28:05    DEBUG [connectionpool.py 959] Starting new HTTPS connection (1): api.mailgun.net:443
+26-01-2020 11:28:06    DEBUG [connectionpool.py 437] https://api.mailgun.net:443 "POST /v3/sandboxb2997e7716914a6ebab1cd81eb5010a2.mailgun.org/messages HTTP/1.1" 400 157
+26-01-2020 11:28:06     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:28:06] "PUT /summary/Recording_1.wav HTTP/1.1" 500 -
+26-01-2020 11:29:07     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:29:07] "GET /summary/Recording_1.wav HTTP/1.1" 200 -
+26-01-2020 11:29:23     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:29:23] "GET /customers HTTP/1.1" 200 -
+26-01-2020 11:34:04     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:34:04] "POST /summary/Recording_1.wav HTTP/1.1" 400 -
+26-01-2020 11:34:35    DEBUG [connectionpool.py 959] Starting new HTTPS connection (1): api.mailgun.net:443
+26-01-2020 11:34:36    DEBUG [connectionpool.py 437] https://api.mailgun.net:443 "POST /v3/sandboxb2997e7716914a6ebab1cd81eb5010a2.mailgun.org/messages HTTP/1.1" 200 136
+26-01-2020 11:34:36     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:34:36] "PUT /summary/Recording_1.wav HTTP/1.1" 200 -
+26-01-2020 11:36:24    DEBUG [connectionpool.py 959] Starting new HTTPS connection (1): api.mailgun.net:443
+26-01-2020 11:36:25    DEBUG [connectionpool.py 437] https://api.mailgun.net:443 "POST /v3/sandboxb2997e7716914a6ebab1cd81eb5010a2.mailgun.org/messages HTTP/1.1" 200 136
+26-01-2020 11:36:26     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:36:26] "PUT /summary/Recording_3.wav HTTP/1.1" 200 -

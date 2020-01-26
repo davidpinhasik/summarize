@@ -1,0 +1,9 @@
+-- shows constraint names for columns in table users
+SELECT r.conname
+FROM pg_catalog.pg_class c
+JOIN pg_catalog.pg_namespace n ON (c.relnamespace = n.oid)
+JOIN pg_catalog.pg_constraint r ON (c.oid = conrelid)
+WHERE c.relname = 'users' AND
+r.contype = 'u'
+
+-- ===========================================================
