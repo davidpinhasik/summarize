@@ -1155,3 +1155,15 @@
 26-01-2020 11:36:24    DEBUG [connectionpool.py 959] Starting new HTTPS connection (1): api.mailgun.net:443
 26-01-2020 11:36:25    DEBUG [connectionpool.py 437] https://api.mailgun.net:443 "POST /v3/sandboxb2997e7716914a6ebab1cd81eb5010a2.mailgun.org/messages HTTP/1.1" 200 136
 26-01-2020 11:36:26     INFO [_internal.py 122] 127.0.0.1 - - [26/Jan/2020 11:36:26] "PUT /summary/Recording_3.wav HTTP/1.1" 200 -
+26-01-2020 15:04:51     INFO [_internal.py 122]  * Detected change in 'C:\\Users\\DAVIDPINHASIK\\PycharmProjects\\summarize\\app.py', reloading
+26-01-2020 15:04:51     INFO [_internal.py 122]  * Restarting with stat
+26-01-2020 15:04:52    DEBUG [audio.py 17] Beginning class FileStorageField
+26-01-2020 15:04:52    DEBUG [audio.py 37] In AudioSchema, creating FileStorageField
+26-01-2020 15:04:52    DEBUG [audio.py 39] audio is <fields.FileStorageField(default=<marshmallow.missing>, attribute=None, validate=None, required=True, load_only=False, dump_only=False, missing=<marshmallow.missing>, allow_none=False, error_messages={'required': 'Missing data for required field.', 'null': 'Field may not be null.', 'validator_failed': 'Invalid value.', 'invalid': 'Not a valid audio'})>
+26-01-2020 15:04:52    DEBUG [audio.py 21] Beginning /schemas/audio.py
+26-01-2020 15:04:52    DEBUG [app.py 40] Calling JWTManager(app)
+26-01-2020 15:04:52    DEBUG [app.py 59] Calling api.add_resource...
+26-01-2020 15:04:52    DEBUG [app.py 78] Calling main code
+26-01-2020 15:04:52  WARNING [_internal.py 122]  * Debugger is active!
+26-01-2020 15:04:52     INFO [_internal.py 122]  * Debugger PIN: 646-104-064
+26-01-2020 15:04:52     INFO [_internal.py 122]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

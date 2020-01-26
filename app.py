@@ -43,11 +43,6 @@ jwt = JWTManager(app)  # does not create the /auth endpoint
 migrate = Migrate(app, db)
 
 
-@app.before_first_request  # flask decorator that runs next commandbefore first request. creates tables if don't exsst
-def create_tables():
-    db.create_all()
-
-
 @app.errorhandler(ValidationError)
 def handle_marshmallow_validation(err):
     logger.debug('Calling handle_marshmallow_validation')
